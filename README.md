@@ -3,6 +3,7 @@
 🎓 Data Science Student at Centro Universitário de Brasília (UniCEUB)   
 📊 Focused on Machine Learning and Statistical Modeling  
 🐍 Python | R
+🖥️ Internship at Agência Nacional de Transportes Terrestres (ANTT)
 
 ---
 
